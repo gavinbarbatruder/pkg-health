@@ -58,3 +58,4 @@ Issues and pull requests are welcome. The codebase is plain HTML/CSS/JS with no 
 ## License
 
 MIT — see [LICENSE](./LICENSE)
+Enjoy!
